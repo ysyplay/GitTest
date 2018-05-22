@@ -21,9 +21,9 @@
     //合并了分支2
     NSLog(@"222222");
 }
--(void)branch2
+-(void)branch1
 {
-   NSLog(@"branch2");
+   NSLog(@"branch1");
 }
 
 - (void)didReceiveMemoryWarning {
