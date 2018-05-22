@@ -20,6 +20,7 @@
     NSLog(@"111111");
     //合并了分支2
     NSLog(@"222222");
+    //分支1调用方法
     [self branch11];
 }
 -(void)branch1
