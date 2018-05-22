@@ -21,6 +21,7 @@
     //合并了分支2
     NSLog(@"222222");
     [self branch11];
+    [self branch22];
 }
 -(void)branch1
 {
@@ -33,6 +34,10 @@
 -(void)branch11
 {
     NSLog(@"branch11");
+}
+-(void)branch22
+{
+    NSLog(@"branch22");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
