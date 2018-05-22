@@ -21,7 +21,10 @@
     //合并了分支2
     NSLog(@"222222");
 }
-
+-(void)branch2
+{
+   NSLog(@"branch2");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
